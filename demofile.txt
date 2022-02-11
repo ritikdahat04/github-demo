@@ -1,0 +1,13 @@
+add
+x+y // one master branch
+
+sub
+
+x-y // on bug456 branch
+
+divide
+if()
+  x/y // on master branch
+
+return x/y //on bug789
+
